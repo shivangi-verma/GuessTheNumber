@@ -1,10 +1,11 @@
-# 🎯 Guess The Number!
-
-![GitHub Views](https://komarev.com/ghpvc/?username=shivangi-verma&repo=Guess-My-Number&color=blue&style=for-the-badge)
+# 🎯 Guess My Number!   
+[Live Demo](https://shivangi-verma.github.io/GuessTheNumber/)
 
 A fun and interactive number guessing game built with **HTML**, **CSS**, and **Vanilla JavaScript**.  
 Try to guess the secret number between **1 and 20** with the fewest attempts!
 
+
+![GitHub Views](https://komarev.com/ghpvc/?username=shivangi-verma&repo=GuessTheNumber&color=blue&style=for-the-badge)  
 ![screenshot](https://github.com/user-attachments/assets/a7b5c977-ee31-4e3e-b9f1-a30f8e67d713)
 
 ---
@@ -23,6 +24,7 @@ The goal is to guess correctly and set a **new high score**.
 - 📉 Score decreases with each wrong guess  
 - 🏆 Highscore tracking  
 - 🔁 Reset button to play again anytime  
+- 👀 Live **view counter** badge  
 
 ---
 
@@ -47,7 +49,7 @@ The goal is to guess correctly and set a **new high score**.
 ## 📂 Project Structure
 
 ```bash
-📦 Guess-My-Number
+📦 GuessTheNumber
  ┣ 📜 index.html       # Main HTML page
  ┣ 📜 style.css        # Styles
  ┣ 📜 script.js        # Game logic
