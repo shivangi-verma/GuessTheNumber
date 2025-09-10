@@ -1,4 +1,4 @@
-# 🎯 Guess My Number!   
+# 🎯 Guess The Number!   
 [Live Demo](https://shivangi-verma.github.io/GuessTheNumber/)
 
 A fun and interactive number guessing game built with **HTML**, **CSS**, and **Vanilla JavaScript**.  
